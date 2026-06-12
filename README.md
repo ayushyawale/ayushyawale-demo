@@ -1,3 +1,3 @@
 # ayushyawale-demo
 This is my first Git Repository
-Author - AYUSH YAWALE
+Author - AYUSH (Parul university)
